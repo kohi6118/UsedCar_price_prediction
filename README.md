@@ -1,0 +1,4 @@
+project is about predicting the resale value of used cars. As we know the value of used cars depends on a number of factors. The most important one are Age of Car, Mileage, number of  Kilometers driven, power, Location of car, Fuel type, Owner type, No. of Seats in car, Engine capacity, Transmission type  and many more.
+The prediction is done though Linear Regression using sklearn library in python by providing historical data ,  UI in which we are  accepting these main values of car and by analysing these values an estimated price has displayed on screen by tkinter.
+
+We have used Pandas to collect and clean data, from sklearn we used linear regression model to make prediction and Tkinter to make GUI.
